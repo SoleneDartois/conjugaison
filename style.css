@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 50px auto;
+  max-width: 500px;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px 0;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.filters {
+  text-align: left;
+  margin: 20px 0;
+}
+
+label {
+  display: block;
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+.output {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.output p {
+  margin: 10px 0;
+}
