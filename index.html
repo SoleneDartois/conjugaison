@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conjugador de Verbos en Español</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Conjugador de Verbos en Español</h1>
+    <div class="filters">
+      <h3>Selecciona los tiempos:</h3>
+      <label><input type="checkbox" value="Presente de Indicativo" class="time-option"> Presente de Indicativo</label><br>
+      <label><input type="checkbox" value="Imperfecto" class="time-option"> Imperfecto</label><br>
+      <label><input type="checkbox" value="Pretérito Perfecto Simple" class="time-option"> Pretérito Perfecto Simple</label><br>
+      <label><input type="checkbox" value="Futuro" class="time-option"> Futuro</label><br>
+      <label><input type="checkbox" value="Presente de Subjuntivo" class="time-option"> Presente de Subjuntivo</label>
+    </div>
+    <button id="generateBtn">Generar Verbo</button>
+    <div id="output" class="output">
+      <p id="verbo"></p>
+      <p id="persona"></p>
+      <p id="tiempo"></p>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
