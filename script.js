@@ -3,11 +3,11 @@ const verbos = [
   "Ser", "Tener", "Ir", "Hacer", "Salir", "Poder", "Poner", "Querer", "Comer", "Vivir", "Cantar",
   "Escribir", "Hablar", "Llamarse", "Divertirse", "Subir", "Explicar", "Bailar", "Evocar", "Desarrollar",
   "Beber", "Esconderse", "Comprar", "Nadar", "Jugar", "Pintar", "Volver", "Peinarse", "Cepillarse",
-  "Descansar", "Trabajar", "Limpiar", "Tocar", "Imprimer", "Estudiar", "Mandar", "Dibujar", "Rezar",
+  "Descansar", "Trabajar", "Limpiar", "Tocar", "Imprimir", "Estudiar", "Mandar", "Dibujar", "Rezar",
   "Vestirse", "Medir", "Robar", "Volar", "Afeitarse", "Esperar", "Despegar", "Manchar", "Obtener",
   "Componer", "Cruzar", "Describir", "Celebrar", "Juntarse", "Disfrutar", "Recordar", "Acordarse",
   "Moverse", "Llorar", "Llover", "Estar", "Traer", "Llevar", "Buscar", "Rodear", "Subrayar", "Pegar",
-  "Pagar", "Ganar", "Perder", "Empatar", "Crear", "Creer"
+  "Pagar", "Ganar", "Perder", "Empatar", "Crear", "Creer", "Preparar", "Maquillarse", "Abrir", "Cerrar", "Aprender", "Caminar", "Cocinar", "Comenzar", "Encontrar"
 ];
 
 const generateBtn = document.getElementById("generateBtn");
