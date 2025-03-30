@@ -7,7 +7,7 @@ const verbos = [
   "Vestirse", "Medir", "Robar", "Volar", "Afeitarse", "Esperar", "Despegar", "Manchar", "Obtener",
   "Componer", "Cruzar", "Describir", "Celebrar", "Juntarse", "Disfrutar", "Recordar", "Acordarse",
   "Moverse", "Llorar", "Llover", "Estar", "Traer", "Llevar", "Buscar", "Rodear", "Subrayar", "Pegar",
-  "Pagar", "Ganar", "Perder", "Empatar", "Crear", "Creer", "Preparar", "Maquillarse", "Abrir", "Cerrar", "Aprender", "Caminar", "Cocinar", "Comenzar", "Encontrar"
+  "Pagar", "Ganar", "Perder", "Empatar", "Crear", "Creer", "Preparar", "Maquillarse", "Abrir", "Cerrar", "Aprender", "Leer", "Mirar", "Necesitar", "Pedir", "Pensar","Caminar", "Cocinar", "Comenzar", "Encontrar"
 ];
 
 const generateBtn = document.getElementById("generateBtn");
